@@ -29,7 +29,6 @@ def play():
                     return
                 
     print(f'you guessed right! number of guesses it took you is {n_gueses}')
-
 play()
     
 
